@@ -1,0 +1,10 @@
+{
+  "location": "australiaeast",
+  "properties": {
+    "globalConfigurations": {
+      "PipelineBillingEnabled": "true"
+    },
+    "globalParameters": {}
+  },
+  "tags": {}
+}
